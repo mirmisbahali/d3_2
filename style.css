@@ -1,0 +1,20 @@
+body {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+rect {
+    fill: green;
+}
+
+.title {
+    text-align: center;
+    font-size: 3.2em;
+}
+
+.axis-lable {
+    font-size: 3.5em;
+}
